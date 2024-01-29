@@ -4,10 +4,10 @@
 3. 스터디 장소 : GoogleMeet
 4. 스터디 운영계획 (2024년 2월 ~ 4월
 
-• 2024년 2월 3일 : GoogleMeet, 발표자 - 우석
-	○ Orientation 및 소개
-	○ Chapter 1 서론
-	○ Chapter 2 표와 그림을 통한 자료의 요약
+- 2024년 2월 3일 : GoogleMeet, 발표자 - 우석
+	+ Orientation 및 소개
+	+ Chapter 1 서론
+	+ Chapter 2 표와 그림을 통한 자료의 요약
  
 • 2024년 2월 18일 : GoogleMeet, 발표자 - 3(TBD), 4(TBD)
 	○ Chapter 3 수치를 통한 연속형 자료의 요약
