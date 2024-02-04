@@ -4,13 +4,12 @@
 3. 스터디 장소 : GoogleMeet
 4. 스터디 운영계획 (2024년 2월 ~ 4월)
 
-- 2024년 2월 3일 : GoogleMeet, 발표자 - 우석
+- 2024년 2월 4일 : GoogleMeet, 발표자 - 우석
 	+ Orientation 및 소개
 	+ Chapter 1 서론
 	+ Chapter 2 표와 그림을 통한 자료의 요약
  	+ Chapter 3 수치를 통한 연속형 자료의 요약
 	+ Chapter 4 두 변수 자료의 요약
-	+ 28회 기출문제 : 질의응답 
 - 2024년 2월 18일 : GoogleMeet, 발표자 - 5(TBD), 6(TBD)
 	+ Chapter 5 확률
 	+ Chapter 6 확률분포
