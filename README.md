@@ -70,10 +70,13 @@ GitHub.com에 로그인
 
 
 GitHub 연결 테스트:
-powershellCopyssh -T git@github.com
+```powershell
+Copyssh -T git@github.com
+```
 
 저장소 클론 재시도:
-powershellCopygit clone git@github.com:jeong-wooseok/ADP_Study.git
-
+```powershell
+Copygit clone git@github.com:jeong-wooseok/ADP_Study.git
+```
 
 이 과정을 따라해보시고, 여전히 문제가 있다면 알려주세요. 추가적인 도움을 드리겠습니다.
