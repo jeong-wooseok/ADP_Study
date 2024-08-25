@@ -35,31 +35,31 @@ git clone git@github.com:jeong-wooseok/ADP_Study.git
 깃허브를 복사합니다. 클론이 안되면 SSH 연결이 안되었을 수도 있습니다.
 
 ```powershell
-Copydir $env:USERPROFILE\.ssh
+dir $env:USERPROFILE\.ssh
 ```
 ssh를 복사합니다.
 만약 .ssh 폴더가 없거나 비어있다면, SSH 키를 생성해야 합니다. Windows에서 SSH 키를 생성하고 GitHub에 추가하는 과정은 다음과 같습니다:
 
 SSH 키 생성:
 ```powershell
-Copyssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 기본 위치와 파일 이름을 사용하려면 그냥 Enter를 누르세요
 
 
 SSH 에이전트 시작:
 ```powershell
-CopyStart-Service ssh-agent
+Start-Service ssh-agent
 ```
 
 SSH 키를 에이전트에 추가:
 ```powershell
-Copyssh-add $env:USERPROFILE\.ssh\id_ed25519
+ssh-add $env:USERPROFILE\.ssh\id_ed25519
 ```
 
 공개 키 복사:
 ```powershell
-CopyGet-Content $env:USERPROFILE\.ssh\id_ed25519.pub | clip
+Get-Content $env:USERPROFILE\.ssh\id_ed25519.pub | clip
 ```
 GitHub에 SSH 키 추가:
 
@@ -74,12 +74,12 @@ GitHub.com에 로그인
 
 GitHub 연결 테스트:
 ```powershell
-Copyssh -T git@github.com
+ssh -T git@github.com
 ```
 
 저장소 클론 재시도:
 ```powershell
-Copygit clone git@github.com:jeong-wooseok/ADP_Study.git
+git clone git@github.com:jeong-wooseok/ADP_Study.git
 ```
 
 이 과정을 따라해보시고, 여전히 문제가 있다면 알려주세요. 추가적인 도움을 드리겠습니다.
