@@ -10,8 +10,9 @@
 - 2024년 8월 24일 : 출제자 데이터마님, 모의테스트1 (05:00 ~ 09:00)
   - [출제문제 바로가기](https://github.com/jeong-wooseok/ADP_Study/blob/main/source/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/240824_2%ED%9A%8C%EC%B0%A8%EB%AC%B8%EC%A0%9C_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC1.ipynb)
   - [풀이 바로가기](https://github.com/jeong-wooseok/ADP_Study/tree/main/source/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%ED%92%80%EC%9D%B4%EC%A0%95%EB%A6%AC/2%ED%9A%8C%EC%B0%A8%ED%92%80%EC%9D%B4)
-- 2024년 8월 31일 : 출제자 TBD, 모의테스트 (05:00 ~ 09:00)
-
+- 2024년 8월 31일 : 출제자 데이터마님, 모의테스트 (05:00 ~ 09:00)
+  - [출제문제 바로가기](https://github.com/jeong-wooseok/ADP_Study/blob/main/source/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/240830_3%ED%9A%8C%EC%B0%A8%EB%AC%B8%EC%A0%9C_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC2.ipynb)
+  - [풀이 바로가기](https://github.com/jeong-wooseok/ADP_Study/tree/main/source/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%ED%92%80%EC%9D%B4%EC%A0%95%EB%A6%AC/2%ED%9A%8C%EC%B0%A8%ED%92%80%EC%9D%B4)
 - 2024년 9월 7일 : 출제자 TBD, 모의테스트 (05:00 ~ 09:00)
 - 2024년 9월 14일 : 출제자 TBD, 모의테스트 (05:00 ~ 09:00)
 - 2024년 9월 21일 : 출제자 TBD, 모의테스트 (05:00 ~ 09:00)
